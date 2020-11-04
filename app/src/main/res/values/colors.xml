@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="num">#BFCCCA</color>
+    <color name="cal">#FD9132</color>
+    <color name="cal_text">#FFFFFF</color>
+    <color name="equ">#2172D5</color>
+    <color name="background">#89918F</color>
+</resources>
